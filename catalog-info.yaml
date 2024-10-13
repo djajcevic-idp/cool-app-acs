@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: cool-app
   annotations:
-    github.com/project-slug: djajcevic/cool-app-acs
+    github.com/project-slug: djajcevic-idp/cool-app-acs
     backstage.io/environment: dev
     'backstage.io/kubernetes-label-selector': 'app.kubernetes.io/name=cool-app-bff'
     argocd/app-name: cool-app
